@@ -12,5 +12,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2  # Check out the repository
 
-      - name: Echo Hello World
+      - name: 22f2000644@ds.study.iitm.ac.in
         run: echo "Hello, world!"  # This will print "Hello, world!" to the logs
